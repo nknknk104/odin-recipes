@@ -1,2 +1,2 @@
 # odin-recipes
-recipe webpage
+recipe webpage html
